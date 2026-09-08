@@ -1,1 +1,2 @@
 ﻿test_id,image_name,query,expected_result,actual_result,status,response_time_seconds,notes
+T001,annualcrop_01.jpg,"What type of land-cover class does this image represent?","AnnualCrop","[MOCK AI ANSWER] Based on the image, here's a placeholder answer to: 'What type of land-cover class does this image represent?'","FAIL",,"HTTP 200; backend pipeline worked, but AI response is mock and does not classify the image."
