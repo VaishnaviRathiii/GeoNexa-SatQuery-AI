@@ -1,0 +1,11 @@
+test_id,image_name,query,expected_result,category
+T001,urban_area_01.jpg,"What type of area is visible in the image?","Urban or built-up area","scene_understanding"
+T002,urban_area_01.jpg,"Are there visible roads in the image?","Yes, roads are visible","object_detection"
+T003,urban_area_01.jpg,"Are there buildings visible in the image?","Yes, buildings are visible","object_detection"
+T004,agriculture_01.jpg,"What type of land use is visible?","Agricultural or cultivated land","land_use"
+T005,agriculture_01.jpg,"Are there visible vegetation patterns?","Yes, vegetation/crop patterns are visible","vegetation"
+T006,water_body_01.jpg,"Is there a water body visible?","Yes, a water body is visible","water_detection"
+T007,water_body_01.jpg,"What is the dominant feature in the image?","Water body","scene_understanding"
+T008,forest_01.jpg,"Is vegetation visible?","Yes, vegetation is visible","vegetation"
+T009,forest_01.jpg,"Does the image contain dense vegetation?","Expected answer depends on image","vegetation"
+T010,urban_area_01.jpg,"Can you identify major geographic features?","Expected answer depends on image metadata","geospatial"
