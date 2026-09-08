@@ -1,0 +1,4 @@
+dataset_id,dataset_name,source,imagery_type,main_use,license_or_access,selected_for_geonexa,notes
+DS001,Sentinel-2,Copernicus Data Space Ecosystem,Multispectral satellite imagery,Land monitoring agriculture vegetation water forestry,Free and open Sentinel data,Yes,Primary GeoNexa evaluation source
+DS002,BigEarthNet v2.0,BigEarthNet,Sentinel-1 and Sentinel-2 image patches,Land-cover classification and multimodal remote-sensing research,Community Data License Agreement Permissive 1.0,Reference,Useful for future larger-scale evaluation
+DS003,EuroSAT,EuroSAT dataset,Sentinel-2 satellite image patches,Land-use and land-cover classification,Dataset-specific terms,Reference,Useful for land-use classification experiments

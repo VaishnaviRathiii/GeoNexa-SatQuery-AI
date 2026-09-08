@@ -1,0 +1,21 @@
+image_name,dataset_id,scene_type,location,acquisition_date,resolution,image_type,source,license_or_access,notes
+annualcrop_01.jpg,DS003,AnnualCrop,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 1 from AnnualCrop class
+annualcrop_02.jpg,DS003,AnnualCrop,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 2 from AnnualCrop class
+forest_01.jpg,DS003,Forest,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 1 from Forest class
+forest_02.jpg,DS003,Forest,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 2 from Forest class
+herbaceousvegetation_01.jpg,DS003,HerbaceousVegetation,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 1 from HerbaceousVegetation class
+herbaceousvegetation_02.jpg,DS003,HerbaceousVegetation,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 2 from HerbaceousVegetation class
+highway_01.jpg,DS003,Highway,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 1 from Highway class
+highway_02.jpg,DS003,Highway,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 2 from Highway class
+industrial_01.jpg,DS003,Industrial,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 1 from Industrial class
+industrial_02.jpg,DS003,Industrial,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 2 from Industrial class
+pasture_01.jpg,DS003,Pasture,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 1 from Pasture class
+pasture_02.jpg,DS003,Pasture,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 2 from Pasture class
+permanentcrop_01.jpg,DS003,PermanentCrop,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 1 from PermanentCrop class
+permanentcrop_02.jpg,DS003,PermanentCrop,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 2 from PermanentCrop class
+residential_01.jpg,DS003,Residential,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 1 from Residential class
+residential_02.jpg,DS003,Residential,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 2 from Residential class
+river_01.jpg,DS003,River,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 1 from River class
+river_02.jpg,DS003,River,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 2 from River class
+sealake_01.jpg,DS003,SeaLake,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 1 from SeaLake class
+sealake_02.jpg,DS003,SeaLake,EuroSAT dataset,Dataset metadata,64x64 pixels,RGB,EuroSAT,See EuroSAT dataset terms,Sample 2 from SeaLake class
