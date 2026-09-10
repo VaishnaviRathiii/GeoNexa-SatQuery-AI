@@ -1,0 +1,1 @@
+﻿"""GeoNexa test suite."""
