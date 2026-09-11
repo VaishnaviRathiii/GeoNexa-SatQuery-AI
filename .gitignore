@@ -226,3 +226,7 @@ data/downloads/
 # BigEarthNet dataset files
 data/bigearthnet/images/
 data/bigearthnet/samples/
+
+# ISRO Cartosat-2S data
+data/isro/cartosat_2s/images/
+data/isro/cartosat_2s/raw/
