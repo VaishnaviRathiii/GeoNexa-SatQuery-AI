@@ -222,3 +222,7 @@ data/downloads/
 # GeoNexa M6 dataset files
 EuroSAT_RGB.zip
 data/downloads/
+
+# BigEarthNet dataset files
+data/bigearthnet/images/
+data/bigearthnet/samples/

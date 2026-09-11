@@ -1,0 +1,6 @@
+sample_id,image_name,source,sensor,image_type,annotation_type,usage,status
+BEN001,,BigEarthNet.txt,Sentinel-1 + Sentinel-2,SAR + Multispectral,Text annotation,VLM adaptation,planned
+BEN002,,BigEarthNet.txt,Sentinel-1 + Sentinel-2,SAR + Multispectral,Text annotation,VLM adaptation,planned
+BEN003,,BigEarthNet.txt,Sentinel-1 + Sentinel-2,SAR + Multispectral,Text annotation,VLM adaptation,planned
+BEN004,,BigEarthNet.txt,Sentinel-1 + Sentinel-2,SAR + Multispectral,Text annotation,VLM adaptation,planned
+BEN005,,BigEarthNet.txt,Sentinel-1 + Sentinel-2,SAR + Multispectral,Text annotation,VLM adaptation,planned
