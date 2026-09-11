@@ -1,0 +1,2 @@
+dataset_id,product_id,satellite,sensor,product_type,processing_level,image_format,no_of_bands,pixel_spacing_m,projection,datum,utm_zone,acquisition_date,scene_center_lat,scene_center_lon,generating_agency,source,status
+ISRO001,205132611,CARTOSAT-2E,MX,ORTHO,ORTHORECTIFIED,GeoTIFF,4,1.6,UTM,WGS84,45,2020-05-16,20.324999,85.833715,NRSC,Official Bhoonidhi Cartosat-2S MX sample,available
