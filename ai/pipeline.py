@@ -1,4 +1,5 @@
 from ai.query import build_prompt
+from ai.vlm import generate_answer
 
 
 def prepare_query(question: str) -> str:
